@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\T05.ComparingObjects\bin\Debug\netcoreapp3.1\T05.ComparingObjects.exe
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\T05.ComparingObjects\bin\Debug\netcoreapp3.1\T05.ComparingObjects.deps.json
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\T05.ComparingObjects\bin\Debug\netcoreapp3.1\T05.ComparingObjects.runtimeconfig.json
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\T05.ComparingObjects\bin\Debug\netcoreapp3.1\T05.ComparingObjects.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\T05.ComparingObjects\bin\Debug\netcoreapp3.1\T05.ComparingObjects.dll
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\T05.ComparingObjects\bin\Debug\netcoreapp3.1\T05.ComparingObjects.pdb
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\T05.ComparingObjects\obj\Debug\netcoreapp3.1\T05.ComparingObjects.csproj.AssemblyReference.cache
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\T05.ComparingObjects\obj\Debug\netcoreapp3.1\T05.ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\T05.ComparingObjects\obj\Debug\netcoreapp3.1\T05.ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\T05.ComparingObjects\obj\Debug\netcoreapp3.1\T05.ComparingObjects.AssemblyInfo.cs
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\T05.ComparingObjects\obj\Debug\netcoreapp3.1\T05.ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\T05.ComparingObjects\obj\Debug\netcoreapp3.1\T05.ComparingObjects.dll
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\T05.ComparingObjects\obj\Debug\netcoreapp3.1\T05.ComparingObjects.pdb
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\T05.ComparingObjects\obj\Debug\netcoreapp3.1\T05.ComparingObjects.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\07. Custom Comparator\bin\Debug\netcoreapp3.1\07. Custom Comparator.exe
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\07. Custom Comparator\bin\Debug\netcoreapp3.1\07. Custom Comparator.deps.json
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\07. Custom Comparator\bin\Debug\netcoreapp3.1\07. Custom Comparator.runtimeconfig.json
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\07. Custom Comparator\bin\Debug\netcoreapp3.1\07. Custom Comparator.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\07. Custom Comparator\bin\Debug\netcoreapp3.1\07. Custom Comparator.dll
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\07. Custom Comparator\bin\Debug\netcoreapp3.1\07. Custom Comparator.pdb
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\07. Custom Comparator\obj\Debug\netcoreapp3.1\07. Custom Comparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\07. Custom Comparator\obj\Debug\netcoreapp3.1\07. Custom Comparator.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\07. Custom Comparator\obj\Debug\netcoreapp3.1\07. Custom Comparator.AssemblyInfo.cs
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\07. Custom Comparator\obj\Debug\netcoreapp3.1\07. Custom Comparator.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\07. Custom Comparator\obj\Debug\netcoreapp3.1\07. Custom Comparator.dll
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\07. Custom Comparator\obj\Debug\netcoreapp3.1\07. Custom Comparator.pdb
+C:\Users\dimit\source\repos\Iterators and Comparators - Exercise\07. Custom Comparator\obj\Debug\netcoreapp3.1\07. Custom Comparator.genruntimeconfig.cache
